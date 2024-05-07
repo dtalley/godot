@@ -1,3 +1,0 @@
-[submodule "modules/javascript"]
-	path = modules/javascript
-	url = git@github.com:dtalley/ECMAScript.git
